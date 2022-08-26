@@ -2,6 +2,8 @@
 
 Access the online Jupyter Lite 👉 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://vincent-maladiere.github.io/scipy-demo/lab/index.html)
 
+Then, head to "content" > "scipy" and click on a notebook.
+
 You don't need to install anything locally. But if you want to do so, you can download this repo and follow the instructions below.
 
 # Work locally
