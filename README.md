@@ -18,4 +18,4 @@ NumPy >= 1.10
 plotly
 ```
 
-Credits to [Maika](https://github.com/maikia/numpy-demo) for this README and Jupyter Lite cool tutorial!
+Credits to [Maikia](https://github.com/maikia/numpy-demo) for this README and Jupyter Lite cool tutorial!
