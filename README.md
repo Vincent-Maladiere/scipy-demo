@@ -1,29 +1,21 @@
-# JupyterLite Demo
+# Scipy Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://vincent-maladiere.github.io/scipy-demo/lab/index.html)
+Access the online Jupyter Lite 👉 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://vincent-maladiere.github.io/scipy-demo/lab/index.html)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+You don't need to install anything locally. But if you want to do so, you can download this repo and follow the instructions below.
 
-## ✨ Try it in your browser ✨
+# Work locally
 
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+The course uses Python 3 and some data analysis packages such as Numpy and plotly. To install the required libraries, we highly recommend Anaconda or miniconda or another Python distribution that includes the scientific libraries (this recommendation applies to all platforms, so for Window, Linux and Mac). when you install conda Python will be installed along with it. Type conda info in your terminal to make sure conda installed correctly.
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+```
+Python >= 3.7
+Scipy
+Jupyter Notebook
+NumPy >= 1.10
+plotly
+```
 
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Credits to [Maika](https://github.com/maikia/numpy-demo) for this README and Jupyter Lite cool tutorial!
